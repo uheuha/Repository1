@@ -3,6 +3,7 @@ public class JavaMainMethod{
 // added this line to test pull request 180819 1156pm
 // added this after creating mybranch..; above line was added before creating mybranch..
 // a1. i am in mybranch1808190102am; i created/copied this branch from mybranch1808191200;
+// a2. i am in mybranch1808190109;
 
         // try to change "static" to "sta" and run it in tutorialspoint.com; 
         // observe the output errors and get familiar with errors; check the line number in the error report;
